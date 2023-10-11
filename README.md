@@ -9,7 +9,8 @@ using a camera and translate them into common slang.
 Because of the summer program NDA requirements, I can't share the code. 
 Here is the demo video where my app can capture real world objects, identify them and show different common slang for 
 those objects.
-[![Click to watch the video]](https://drive.google.com/file/d/1FG34ZRR3P-n23EUcbM_in8hkML3yVs_K/view?resourcekey&pli=1)
+
+# [[Click to watch the video]](https://drive.google.com/file/d/1FG34ZRR3P-n23EUcbM_in8hkML3yVs_K/view?resourcekey&pli=1)
 
 # Highlights of the program
 * Collected object training data
