@@ -12,12 +12,14 @@ using a camera and translate them into common slang.
 
 # Highlights of the program
 * Collected object training data
+* Studied supervised and unsupervised learning
 * Artificial Intelligence/ Machine Learning used to recognize objects 
 * Worked with Apple employees in the office for this year's program
 * Researched how AI/ML affects bias and discrimination in the world
 * Explored supervised vs unsupervised machine learning
 * Met with successful female CEOs
-* Learn how to develop the iOS App
+* Learned how to develop iOS App
+* Developed XCode and SwiftUI skills
 * Presented to industry professionals
 # [Kode with Klossy Program Information Link](https://www.kodewithklossy.com/)
 ![](KodeHome.png)
