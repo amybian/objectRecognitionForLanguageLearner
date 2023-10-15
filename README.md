@@ -1,7 +1,7 @@
 # Kode with Klossy: AI Project
-In this summer program, I am the main developer to develop iOS app w/ SwiftUI and Xcode to enable language 
+In this summer program, I developed an iOS app using SwiftUI and Xcode to enable language 
 learners to identify objects
-using a camera and translate them into common slang.
+using a camera and translate the object names into common slang terms in a different language of choice.
 # Project Overview
 ![](slides.gif)
 # Demo Video
