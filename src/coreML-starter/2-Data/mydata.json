@@ -1,0 +1,48 @@
+[
+    {
+        "label": "Coffee",
+        "audio": "coffee.mp3",
+        "emoji" :"☕️",
+        "translation": "咖啡",
+        "image": "coffee",
+        "definition":"\n\nA hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.",
+        "text": "\n\nCup of Joe"
+
+    },
+    {
+        "label": "Soda",
+        "audio": "soda.mp3",
+        "emoji" :"🥤",
+        "translation": "汽水",
+        "image": "soda",
+        "definition":"\n\nCarbonated water (originally made with sodium bicarbonate) drunk alone or with liquor or wine.",
+        "text": "\n\nPop"
+    },
+    {
+        "label": "Phone",
+        "audio": "phone.mp3",
+        "emoji" :"📱",
+        "translation": "手机",
+        "image": "phone",
+        "definition":"\n\nA piece of electronic equipment which makes it possible for you to speak to someone in another place who has similar equipment",
+        "text": "\n\nCellphone\nSmartphone\nCell\nHandphone"
+    },
+    {
+        "label": "Money",
+        "audio": "money.mp3",
+        "emoji" :"💵",
+        "translation": "钱",
+        "image": "money",
+        "definition":"\n\nA current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
+        "text": "\n\nDough\nBread\nBucks\nCash\nBank\nBills"
+    },
+    {
+        "label": "Shoes",
+        "audio": "shoes.mp3",
+        "emoji" :"👟",
+        "translation": "鞋子",
+        "image": "shoes",
+        "definition":"\n\nA covering for the foot, typically made of leather, having a sturdy sole and not reaching above the ankle.",
+        "text": "\n\nKicks\nTrainers\nFootwear\nRunners"
+    }
+]
