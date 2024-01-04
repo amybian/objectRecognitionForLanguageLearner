@@ -27,10 +27,6 @@ struct Definition: View {
                         .padding(.horizontal, 5.0)
                         .font(.system(size: 70, weight: .bold, design: .rounded))
                         .foregroundColor(.black)
-                    // .padding([.top, .leading], 40.0)
-                    //    HStack {
-                    
-                    //  }
                         .padding()
                     Text(translated)
                         .multilineTextAlignment(.leading)
@@ -39,9 +35,8 @@ struct Definition: View {
                         .foregroundColor(.black)
                     
                     Button(action: {
-                        
                         let audioFile = audioName.lowercased()
-                        soundPlayer.playAudioFile(audioFile) // put in just the file name, including the file extension. Any audio file should work.
+                        soundPlayer.playAudioFile(audioFile)
                     }
                     ) {
                         Image(systemName: "play.fill")
@@ -49,16 +44,10 @@ struct Definition: View {
                             .frame(width: 40, height: 40)
                             .padding(.horizontal,40)
                     }
-                    
                 }
                 
                 Spacer()
-                
-                
-                
-                
-                
-                
+
                 VStack {
                     HStack(alignment: .top){
                         VStack(){

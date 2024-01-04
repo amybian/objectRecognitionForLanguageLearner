@@ -33,14 +33,13 @@ var body: some View {
       VStack {
         VStack {
           // header image:
-          // TODO: replace with your own image. Drag an image from your computer to assets.xcassets and add the name of your image below
        Image("Logo")
           .resizable()
           .aspectRatio(contentMode: .fit)
           .padding(.top, 10.0)
           .frame(width: 250)
           // title
-          // TODO: Replace app title
+          // app title
           Text("Slanguage.")
             .font(.system(size: 95, design: .rounded))
             .fontWeight(.bold)
@@ -48,7 +47,7 @@ var body: some View {
             .foregroundColor(.white)
             //.padding()
           // info
-          // TODO: Replace with description of your app
+          // TODO: description of app
           VStack(spacing: 20) {
             Text("Language redefined")
               .padding(.top, 20.0)
@@ -58,7 +57,7 @@ var body: some View {
           .padding()
           .multilineTextAlignment(.center)
           // item list
-          // TODO: replace with the names of your items
+          // TODO: item names
 //          HStack(spacing: 10) {
 //            VStack {
 //              Text(":coffee:️")
